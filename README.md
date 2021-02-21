@@ -3,14 +3,17 @@ Covid-19 Cases in India were predicted using Non Linear Regression Models using 
 
 ## Gompertz Prediction
 ![Gompertz](https://github.com/VedantPandya/predictionOfCovid19/blob/main/Images/gompertz.PNG)
+
 Gompertz Model predicts that India's Cases will stop at 12.07 Million, around mid May 2021.
 
 
 ## Logistic Prediction
 ![Logistic](https://github.com/VedantPandya/predictionOfCovid19/blob/main/Images/logistic.PNG)
+
 Logistic Model predicts that India's Cases will stop at 9.85 Million, around early March 2021.
 
 ## Bertalanffy Prediction
 ![Bertalanffy](https://github.com/VedantPandya/predictionOfCovid19/blob/main/Images/bertalanffy.PNG)
+
 Bertalanffy Model predicts that India's Cases will stop at 13.87 Million, around mid May 2021.
 
